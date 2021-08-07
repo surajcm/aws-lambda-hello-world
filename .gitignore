@@ -1,0 +1,8 @@
+target/
+*.class
+**/*.class
+.mvn/
+*.iws
+*.ipr
+*.iml
+logs/
