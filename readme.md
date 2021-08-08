@@ -9,7 +9,7 @@ Set the environment variables:
 M2_HOME, JAVA_HOME etc
 
 ##### Build command :
-`mvn clean package`
+`mvn clean compile package`
 
 ##### To Run the application :
 `mvn clean package shade:shade`
